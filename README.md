@@ -6,4 +6,4 @@ The 'GUI.java' file contains the main exicution of the program, the 'base.java' 
 
 There are still a lot of features to be added, I will keep working on them.
 ## Fell free to go through the source code and contribute.
-## Thanks for checking it out :)
+## Thanks for checking it out : )
